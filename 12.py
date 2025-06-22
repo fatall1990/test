@@ -29,3 +29,4 @@ while len(newData) != len(data):
                 newData.append(el)
                 cursor = el["to"]
 pprint(newData, indent=4)
+
